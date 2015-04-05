@@ -43,6 +43,7 @@ List of Microsoft Organizations on GitHub
 -  https://github.com/Reactive-Extensions
 -  https://github.com/SignalR
 -  https://github.com/Azure-Samples
+-  https://github.com/azure-webapp-samples
 -  https://github.com/winjs
 -  https://github.com/yammer
 
